@@ -3,7 +3,7 @@
 
 In this my assignment, I followed the MVVM-C architecture and identified the following hierarchy.<br>
 ### Data Layer.
-Core Data & Network
+Core Data , Network , Model DTO
 ### Domain Layer.
 Repositories.
 ### Representation layer.
