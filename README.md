@@ -7,7 +7,7 @@ Core Data , Network , Model DTO
 ### Domain Layer.
 Repositories.
 ### Representation layer.
-Views & Models
+Views & View Models
 ### Utils
 ImageCache
       
